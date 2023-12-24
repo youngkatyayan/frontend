@@ -11,6 +11,7 @@ import Contact from './page/Contact.js';
 import Login from './page/Login.js';
 import Newproduct from './page/Newproduct.js';
 import SignUp from './page/SignUp.js';
+
 // createBrowserRouter is use for handling and render URL  
 const router = createBrowserRouter(
   // createRoutesFromElements to provide Route element 
